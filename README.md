@@ -11,7 +11,7 @@
 
 <img margin="auto" src="https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=pastic&label=PROFILE+views" alt=""/>
 
-## Tech Stack
+<!-- ## Tech Stack -->
 
 
 
