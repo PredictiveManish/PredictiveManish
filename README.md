@@ -2,7 +2,6 @@
 
 <h1> Namaskar 🙏🏻</h1>
 
-<h1> Learning to work with Data and AI </h1>
 
 <h2> I'm working on projects related to Data and real-world problem solving </h2>
 
