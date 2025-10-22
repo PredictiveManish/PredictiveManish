@@ -6,7 +6,11 @@
 <h2> I'm working on projects related to Data and real-world problem solving </h2>
 
 <img margin="auto" src="https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=pastic&label=PROFILE+views" alt=""/>
-
+<div>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img height=200 width=479 alt="A Table showing PredictiveManish's activity on GitHub" src="https://github-readme-stats.vercel.app/api?username=JohnStrunk&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
+  <img height=200 width=279 alt="A graph of JohnStrunk's most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&layout=compact&langs_count=10&theme=transparent" />
+</div>
 <!-- ## Tech Stack -->
 
 
