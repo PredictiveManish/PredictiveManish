@@ -20,3 +20,7 @@
 
 <!-- Top Languages (high contrast) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="PredictiveManish's Top Languages (High Contrast)"/>
+
+
+[![LinkedIn: Manish Tiwari](https://img.shields.io/badge/Manish_Tiwari--white?style=social&logo=linkedin)]([https://www.linkedin.com/in/johnstrunk/](https://www.linkedin.com/in/manish-tiwari-977741286/))
+[![X: @compmanish](https://img.shields.io/twitter/url?label=%40compmanish&style=social&url=https%3A%2F%2Ftwitter.com%2Fcompmanish)](https://X.com/compmanish)
