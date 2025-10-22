@@ -4,7 +4,7 @@
 
 
 <h2> I'm working on projects related to Data and real-world problem solving </h2>
-## Github Stats:
+
 <img margin="auto" src="https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=pastic&label=PROFILE+views" alt=""/>
 <div>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
