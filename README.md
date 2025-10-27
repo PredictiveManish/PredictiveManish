@@ -14,7 +14,9 @@
 </div>
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=predictivemanish&theme=onedark-duo&locale=hi&short_numbers=true&date_format=%5BY%20%5DM%20j&card_width=400&card_height=190)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PredictiveManish&theme=highcontrast" alt="PredictiveManish's GitHub Streak"/>
+</a>
 
 <!-- Top Languages (high contrast) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="PredictiveManish's Top Languages (High Contrast)"/>
