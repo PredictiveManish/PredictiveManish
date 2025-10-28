@@ -13,10 +13,10 @@
   <img height="200" width="279" alt="PredictiveManish's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&layout=compact&langs_count=10&theme=transparent" />
 </div>
 
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
+<!-- GitHub Streak can be used in future! -->
+<!-- <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PredictiveManish&theme=highcontrast" alt="PredictiveManish's GitHub Streak"/>
-</a>
+</a> -->
 
 <!-- Top Languages (high contrast) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="PredictiveManish's Top Languages (High Contrast)"/>
