@@ -24,3 +24,14 @@
 
 [![LinkedIn: Manish Tiwari](https://img.shields.io/badge/Manish_Tiwari--white?style=social&logo=linkedin)]([https://www.linkedin.com/in/johnstrunk/](https://www.linkedin.com/in/manish-tiwari-977741286/))
 [![X: @compmanish](https://img.shields.io/twitter/url?label=%40compmanish&style=social&url=https%3A%2F%2Ftwitter.com%2Fcompmanish)](https://X.com/compmanish)
+
+
+## 📐 Activity Graph
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=100860877" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=100860877&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Predictivemanish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=100860877&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
