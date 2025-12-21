@@ -1,24 +1,25 @@
 <!--![MasterHead](https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e676966) -->
 <h1> नमस्कार 🙏🏻</h1>
 
-<h2> Love to support to good work!  </h2>
+<h2> Love to contribute </h2>
 
 <!-- <img margin="auto" src="https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=plastic&label=PROFILE+views" alt=""/>
 
 <div>
   <!-- GitHub Stats -->
+<!--
   <img height="200" width="479" alt="PredictiveManish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PredictiveManish&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
-  
+
   <!-- Top Languages -->
-  <img height="200" width="279" alt="PredictiveManish's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&layout=compact&langs_count=10&theme=transparent" />
+<!--  <img height="200" width="279" alt="PredictiveManish's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&layout=compact&langs_count=10&theme=transparent" />
 </div>
 
 <!-- GitHub Streak can be used in future! -->
 <!-- <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PredictiveManish&theme=highcontrast" alt="PredictiveManish's GitHub Streak"/>
 </a> -->
+<!--
 
-<!-- Top Languages (high contrast) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="PredictiveManish's Top Languages (High Contrast)"/> -->
 
 
