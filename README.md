@@ -1,7 +1,7 @@
 <!--![MasterHead](https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e676966) -->
 <h1> नमस्कार 🙏🏻</h1>
 
-<h2> Love to contribute </h2>
+<h2> Working with Python 🐍 and something </h2>
 
 <!-- <img margin="auto" src="https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=plastic&label=PROFILE+views" alt=""/>
 
