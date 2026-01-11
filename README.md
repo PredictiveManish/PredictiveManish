@@ -2,19 +2,33 @@
 ## Hi 👋, I'm Manish Tiwari
 
 🎓 CS Engineering Student  
-🐍 Python Lover 
-🌱 Open Source Contributor  
+🤖 AI | MLOps Enthusiast  
+🐍 Python  
 
 ---
 
 ### 👨‍💻 About Me
-- I primarily code in **Python**
-- I enjoy **building usable products**, not just demos
-- Actively contributing to **open source** to learn, collaborate, and improve real-world software
-- Interested in **Backend Systems, Databases, and AI**
-- Previously more theory-focused, now intentionally shifting towards **hands-on building and real contributions**
+- Strong interest in **Machine Learning systems and MLOps**
+- Focused on making ML models **reproducible, deployable, and reliable**
+- Experience experimenting with ML workflows and automation
+- Actively contributing to **open source ML tools and projects**
+- Currently shifting from theory-heavy learning to **hands-on ML system building**
 
 ---
+
+### 🔬 Areas of Interest
+- ML pipelines & experiment tracking  
+- Model versioning & deployment  
+- Data validation & monitoring  
+- ML automation & infrastructure  
+
+---
+
+### 🛠️ Tech Stack
+- Python  
+- NumPy, Pandas, scikit-learn  
+- (Actively learning) MLflow, DVC, Docker  
+
 <div>
   <!-- GitHub Stats -->
 <!--
