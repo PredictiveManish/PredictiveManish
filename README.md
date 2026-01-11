@@ -1,16 +1,20 @@
 <!--![MasterHead](https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e676966) -->
-<h1> नमस्कार 🙏🏻</h1>
+## Hi 👋, I'm Manish Tiwari
 
-<!-- <h2> Working with Python 🐍 and something </h2> -->
+🎓 CS Engineering Student  
+🐍 Python Lover 
+🌱 Open Source Contributor  
 
-<p>Hi, Myself Manish Tiwari, CS Engineering Student ! I,
-  - code in python.
-  - build usable products
-  - Contribute in Open source for my interest to make tech world better without any monetary chase just for learning and fun!
-  - i love to learn about AI, DB
-  - Built less things, more theoretical(currently) just changing this style.</p>
-<!-- <img margin="auto" src="https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=plastic&label=PROFILE+views" alt=""/>
+---
 
+### 👨‍💻 About Me
+- I primarily code in **Python**
+- I enjoy **building usable products**, not just demos
+- Actively contributing to **open source** to learn, collaborate, and improve real-world software
+- Interested in **Backend Systems, Databases, and AI**
+- Previously more theory-focused, now intentionally shifting towards **hands-on building and real contributions**
+
+---
 <div>
   <!-- GitHub Stats -->
 <!--
