@@ -68,3 +68,5 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=plastic&label=PROFILE+VIEWS)
