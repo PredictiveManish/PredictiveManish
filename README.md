@@ -1,6 +1,8 @@
 <!--![MasterHead](https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e676966) -->
 ## Hi 👋, I'm Manish Tiwari
 
+
+
 🎓 CS Engineering Student  
 🤖 AI | MLOps Enthusiast  
 🐍 Python  
@@ -45,7 +47,7 @@
 <!--
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="PredictiveManish's Top Languages (High Contrast)"/> -->
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true)
 
 [![LinkedIn](https://img.shields.io/badge/Manish_Tiwari--white?style=social&logo=linkedin)]([https://www.linkedin.com/in/johnstrunk/](https://www.linkedin.com/in/manish-tiwari-977741286/))
 [![X](https://img.shields.io/twitter/url?label=%40compmanish&style=social&url=https%3A%2F%2Ftwitter.com%2Fcompmanish)](https://X.com/compmanish)
