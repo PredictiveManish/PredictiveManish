@@ -53,7 +53,6 @@
 [![X](https://img.shields.io/twitter/url?label=%40compmanish&style=social&url=https%3A%2F%2Ftwitter.com%2Fcompmanish)](https://X.com/compmanish)
 
 
-## 📐 Activity Graph
 <!-- Copy-paste in your Readme.md file -->
 
 <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=77712914" target="_blank" style="display: block" align="center">
