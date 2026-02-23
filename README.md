@@ -4,7 +4,7 @@
 [![Manish Tiwari profile views](https://u8views.com/api/v1/github/profiles/77712914/views/day-week-month-total-count.svg)](https://u8views.com/github/PredictiveManish)
 
 🎓 CS Engineering Student  
-🤖 AI | MLOps Enthusiast  
+🤖 AI | MLOps Engineer  
 🐍 Python  
 
 ---
@@ -18,18 +18,13 @@
 
 ---
 
-### 🔬 Areas of Interest
-- ML pipelines & experiment tracking  
-- Model versioning & deployment  
-- Data validation & monitoring  
-- ML automation & infrastructure  
-
----
 
 ### 🛠️ Tech Stack
-- Python  
-- NumPy, Pandas, scikit-learn  
-- (Actively learning) MLflow, DVC, Docker  
+- Languages: Python, SQL (PostgreSQL), C/C++
+- Machine Learning & Data: Pandas, NumPy, Matplotlib, Scikit-learn, EDA, Feature Engineering, Model Evaluation
+- Frameworks & Backend: Flask, FastAPI, Streamlit, MLflow, PyTorch
+- Tools & Platforms: Git & GitHub, Docker, Linux, VS Code, HuggingFace, FFmpeg
+- Concepts: REST APIs, MLOps fundamentals, Data Structures, System Design basics  
 
 <div>
   <!-- GitHub Stats -->
