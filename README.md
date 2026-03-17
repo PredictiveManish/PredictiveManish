@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Manish Tiwari
 
 [![Manish Tiwari profile views](https://u8views.com/api/v1/github/profiles/77712914/views/day-week-month-total-count.svg)](https://u8views.com/github/PredictiveManish)
-
+<!--
 🎓 CS Engineering Student  
 🤖 AI | MLOps Engineer  
 🐍 Python  
@@ -27,6 +27,8 @@
 - Concepts: REST APIs, MLOps fundamentals, Data Structures, System Design basics  
 
 <div>
+ -->
+ <img src="https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=Coding%20Love" />
   <!-- GitHub Stats -->
 <!--
   <img height="200" width="479" alt="PredictiveManish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PredictiveManish&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
