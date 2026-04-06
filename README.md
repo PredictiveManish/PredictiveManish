@@ -1,87 +1,85 @@
-<!--![MasterHead](https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646764713862722d30396363376164362d613032312d343761352d623065302d3931376231326230663761372e676966) -->
-## Hi 👋, I'm Manish Tiwari
+# Hi, I'm Manish Tiwari 👋
 
-
-<!--
-🎓 CS Engineering Student  
-🤖 AI | MLOps Engineer  
-🐍 Python  
-
----
-
-### 👨‍💻 About Me
-- Strong interest in **Machine Learning systems and MLOps**
-- Focused on making ML models **reproducible, deployable, and reliable**
-- Experience experimenting with ML workflows and automation
-- Actively contributing to **open source ML tools and projects**
-- Currently shifting from theory-heavy learning to **hands-on ML system building**
+🚀 Indie Hacker | AI Builder | Open-Source Contributor  
+🎓 3rd Year Engineering Student (India)  
+🧠 Building AI systems, not just models  
 
 ---
 
 
-### 🛠️ Tech Stack
-- Languages: Python, SQL (PostgreSQL), C/C++
-- Machine Learning & Data: Pandas, NumPy, Matplotlib, Scikit-learn, EDA, Feature Engineering, Model Evaluation
-- Frameworks & Backend: Flask, FastAPI, Streamlit, MLflow, PyTorch
-- Tools & Platforms: Git & GitHub, Docker, Linux, VS Code, HuggingFace, FFmpeg
-- Concepts: REST APIs, MLOps fundamentals, Data Structures, System Design basics  
+## 🔨 Current Focus
 
-<div>
+- AI Systems Engineering
+- MLOps & Deployment
+- Open Source Contributions
+- Startup-style product building
 
- <img src="https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=Coding%20Love"/>
- --> 
- <img src="https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=Coding"/>
-  <!-- GitHub Stats -->
-<!--
-  <img height="200" width="479" alt="PredictiveManish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PredictiveManish&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
+---
 
-  <!-- Top Languages -->
-<!--  <img height="200" width="279" alt="PredictiveManish's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&layout=compact&langs_count=10&theme=transparent" />
-</div>
+## 🧰 Tech Stack
 
-<!-- GitHub Streak can be used in future! -->
-<!-- <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PredictiveManish&theme=highcontrast" alt="PredictiveManish's GitHub Streak"/>
-</a> -->
-<!--
+**AI / ML**
+- Python, PyTorch, Scikit-learn
+- Pandas, NumPy, Matplotlib
+- Whisper, LlamaIndex, HuggingFace
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PredictiveManish&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="PredictiveManish's Top Languages (High Contrast)"/> -->
+**Backend**
+- FastAPI
+- Streamlit
+- REST APIs
+
+**Infra / Tools**
+- Docker
+- Git & GitHub
+- Linux
+- VS Code
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=BuildingFast)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true)
-[![Manish Tiwari profile views](https://u8views.com/api/v1/github/profiles/77712914/views/day-week-month-total-count.svg)](https://u8views.com/github/PredictiveManish)
 
-[![LinkedIn](https://img.shields.io/badge/Manish_Tiwari--white?style=social&logo=linkedin)]([https://www.linkedin.com/in/johnstrunk/](https://www.linkedin.com/in/manish-tiwari-977741286/))
-[![X](https://img.shields.io/twitter/url?label=%40compmanish&style=social&url=https%3A%2F%2Ftwitter.com%2Fcompmanish)](https://X.com/compmanish)
+---
 
+## 🌍 Building Philosophy
 
-<!-- Copy-paste in your Readme.md file -->
+I don't build resume projects.  
+I build products I would actually use.
 
-<!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=77712914" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77712914&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @PredictiveManish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77712914&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a> -->
+- Solve real problems
+- Ship fast
+- Iterate publicly
+- Learn aggressively
 
-<!-- Copy-paste in your Readme.md file -->
+---
 
-<!-- <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=77712914&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=77712914&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @PredictiveManish" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=77712914&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a> -->
+## 🤝 Open Source
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+Contributing to:
+- HuggingFace
+- Moss
+- Skrub
+- SHAP
+- Other ML tooling projects
 
-<!-- Copy-paste in your Readme.md file -->
+Always open to collaboration.
 
-<!-- <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=77712914&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=77712914&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@PredictiveManish's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=77712914&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a> -->
+---
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Tiwari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manish-tiwari-977741286/)
+[![X](https://img.shields.io/twitter/url?label=%40compmanish&style=social&url=https%3A%2F%2Ftwitter.com%2Fcompmanish)](https://x.com/compmanish)
+
+---
+
+## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=plastic&label=PROFILE+VIEWS)
+
+---
+
+⚡ Building something new every week
