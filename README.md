@@ -28,7 +28,7 @@
 
 <div>
  -->
- <img src="https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=Coding%20Love" />
+ <img src="https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=Coding%20Love"/>
   <!-- GitHub Stats -->
 <!--
   <img height="200" width="479" alt="PredictiveManish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PredictiveManish&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
