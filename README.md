@@ -38,7 +38,7 @@
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=BuildingFast)
+![GitHub Stats](https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=lifestatus)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true)
 
