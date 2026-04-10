@@ -1,8 +1,9 @@
 # Hi, I'm Manish Tiwari 👋
 
 🚀 Indie Hacker | AI Builder | Open-Source Contributor  
+🧠 Building AI systems, not just models 
 🎓 3rd Year Engineering Student (India)  
-🧠 Building AI systems, not just models  
+ 
 
 ---
 
@@ -32,7 +33,6 @@
 - Docker
 - Git & GitHub
 - Linux
-- VS Code
 
 ---
 
@@ -40,7 +40,7 @@
 
 ![GitHub Stats](https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=lifestatus)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true) -->
 
 ---
 
@@ -56,18 +56,6 @@ I build products I would actually use.
 
 ---
 
-## 🤝 Open Source
-
-Contributing to:
-- HuggingFace
-- Moss
-- Skrub
-- SHAP
-- Other ML tooling projects
-
-Always open to collaboration.
-
----
 
 ## 📫 Reach Me
 
@@ -80,6 +68,5 @@ Always open to collaboration.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PredictiveManish&color=orange&style=plastic&label=PROFILE+VIEWS)
 
----
 
 ⚡ Building something new every week
