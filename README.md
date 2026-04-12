@@ -33,6 +33,8 @@
 - Docker
 - Git & GitHub
 - Linux
+- OpenCode
+- OpenClaw
 
 ---
 
