@@ -25,36 +25,22 @@
 - Whisper, LlamaIndex, HuggingFace
 
 **Backend**
-- FastAPI
-- Streamlit
-- REST APIs
+- FastAPI, Streamlit, REST APIs
 
 **Infra / Tools**
-- Docker
-- Git & GitHub
-- Linux
-- OpenCode
-- OpenClaw
+- Docker, Version Control, Linux, OpenCode, OpenClaw
 
 ---
 
-## 📈 GitHub Activity
 
-![GitHub Stats](https://utils.koyeb.app/github/api/github-stats?username=predictivemanish&timezone=IST&title=lifestatus)
 
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true) -->
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true)
 ---
 
 ## 🌍 Building Philosophy
 
 I don't build resume projects.  
 I build products I would actually use.
-
-- Solve real problems
-- Ship fast
-- Iterate publicly
-- Learn aggressively
 
 ---
 
