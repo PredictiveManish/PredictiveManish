@@ -5,16 +5,7 @@
 🎓 3rd Year Engineering Student (India)  
  
 
----
-
-
-## 🔨 Current Focus
-
-- AI Systems Engineering
-- MLOps & Deployment
-- Open Source Contributions
-- Startup-style product building
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=predictivemanish)](https://git.io/streak-stats)
 ---
 
 ## 🧰 Tech Stack
@@ -32,10 +23,6 @@
 
 ---
 
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=predictivemanish&theme=tokyo-night&hide_border=true)
----
 
 ## 🌍 Building Philosophy
 
