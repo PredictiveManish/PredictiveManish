@@ -55,8 +55,8 @@
 
 <!-- Live badges — they query the GitHub API directly and update themselves, no setup needed. -->
 
-<a href="https://github.com/pulls?q=is%3Apr+author%3APredictiveManish"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3APredictiveManish%20type%3Apr&query=%24.total_count&label=PRs%20opened&color=88c0d0&cacheSeconds=3600&style=for-the-badge" alt="PRs opened" /></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3APredictiveManish+is%3Amerged"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3APredictiveManish%20type%3Apr%20is%3Amerged&query=%24.total_count&label=Merged%20PRs&color=a3be8c&cacheSeconds=3600&style=for-the-badge" alt="Merged PRs" /></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3APredictiveManish"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3APredictiveManish%2Btype%3Apr&query=%24.total_count&label=PRs%20opened&color=88c0d0&cacheSeconds=3600&style=for-the-badge" alt="PRs opened" /></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3APredictiveManish+is%3Amerged"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3APredictiveManish%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=Merged%20PRs&color=a3be8c&cacheSeconds=3600&style=for-the-badge" alt="Merged PRs" /></a>
 <a href="https://github.com/PredictiveManish?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPredictiveManish&query=%24.public_repos&label=Public%20repos&color=ebcb8b&cacheSeconds=3600&style=for-the-badge" alt="Public repos" /></a>
 <a href="https://github.com/PredictiveManish?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPredictiveManish&query=%24.followers&label=Followers&color=b48ead&cacheSeconds=3600&style=for-the-badge" alt="Followers" /></a>
 
